@@ -8,5 +8,9 @@ export default defineNuxtConfig({
               ]
         }
     },
-    loading: false
+    runtimeConfig: {
+       public:{
+        API:  "http://198.251.88.211:25581/discord-messages"
+       }
+    }
 })
