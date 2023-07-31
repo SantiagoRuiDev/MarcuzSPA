@@ -14,13 +14,13 @@
           
           <div class="p-4 md:w-full">
             <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-lg">
-              <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/720x400" alt="blog">
+              <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/assets/images/curtly.png" alt="blog">
               <div class="p-6">
-                <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">DISCORD BOT</h2>
-                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">TitiBot</h1>
-                <p class="leading-relaxed mb-3">Bot desarrollado para clientes sus funcionalidades son la moderacion, tiene minijuegos y tambien administracion.</p>
+                <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">WEB APPLICATION</h2>
+                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Curtly Website</h1>
+                <p class="leading-relaxed mb-3">Here you can build your brand’s recognition and get detailed insights on how your links are performing</p>
                 <div class="flex items-center flex-wrap ">
-                  <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Desarrollado por John Doe
+                  <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">The technologies used were: React, TypeScript, TailwindCSS, PHP, MySQL
                   </a>
                 </div>
               </div>
@@ -29,13 +29,14 @@
           
           <div class="p-4 md:w-full">
             <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-lg">
-              <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/720x400" alt="blog">
+              <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/assets/images/cheapboosts.jpg" alt="blog">
               <div class="p-6">
-                <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">DASHBOARD</h2>
-                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">TitiBot</h1>
-                <p class="leading-relaxed mb-3">Dashboard diseñada y desarrollada para gestionar y ver estadisticas de un bot.</p>
+                <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">WEB APPLICATION</h2>
+                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">CheapBoosts Website</h1>
+                <p class="leading-relaxed mb-3">This is the official CheapBoosts website.
+Here you can buy products you need on Discord, and find out what our clients say about CheapBoosts.</p>
                 <div class="flex items-center flex-wrap ">
-                  <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Desarrollado por John Doe
+                  <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">The technologies used were: NodeJS, EJS, and MongoDB
                   </a>
                 </div>
               </div>
@@ -44,13 +45,13 @@
 
           <div class="p-4 md:w-full">
             <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-lg">
-              <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/720x400" alt="blog">
+              <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="/assets/images/wortea.jpg" alt="blog">
               <div class="p-6">
-                <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">APLICACION WEB</h2>
-                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Billetera Virtual</h1>
-                <p class="leading-relaxed mb-3">Bot desarrollado para clientes sus funcionalidades son la moderacion, tiene minijuegos y tambien administracion.</p>
+                <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">WEB APPLICATION</h2>
+                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">WorTea Website</h1>
+                <p class="leading-relaxed mb-3">A platform that helps create a friendlier environment for the work team</p>
                 <div class="flex items-center flex-wrap ">
-                  <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Desarrollado por John Doe
+                  <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">The technologies used were: React, Spline, Node.js, MySQL
                   </a>
                 </div>
               </div>
